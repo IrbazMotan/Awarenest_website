@@ -83,4 +83,3 @@
     if (origOl && origOl.tagName === 'OL') origOl.remove();
     videosSection.after(cardsDiv);
   }
-});
