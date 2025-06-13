@@ -132,6 +132,7 @@ main {
 
 .welcome-message .welcome-text {
   flex: 2 1 320px;
+  text-align: left;
 }
 
 .welcome-message .welcome-image {
