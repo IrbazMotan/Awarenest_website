@@ -134,11 +134,10 @@ main {
   flex: 2 1 320px;
 
 }
-.welcome-text p{
-  text-align: left;
-  margin-top: 20px;
-  margin-bottom:20px;
-  
+.welcome-text p {
+  text-align: left;         /* Aligns text to the left */
+  margin-top: 1rem;         /* Adds space above each paragraph */
+  margin-bottom: 1rem;      /* Adds space below each paragraph */
 }
 .welcome-message .welcome-image {
   flex: 1 1 220px;
