@@ -137,6 +137,7 @@ main {
 .welcome-text p{
   text-align: left;
   margin-top: 20px;
+  margin-bottom:20px;
   
 }
 .welcome-message .welcome-image {
