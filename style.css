@@ -162,6 +162,8 @@ main {
 /* Definition Section */
 #definition p {
   text-align: left;
+  margin-top:1rem;
+  margin-bottom:1rem;
 }
 
 #definition h2 {
