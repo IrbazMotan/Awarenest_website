@@ -132,10 +132,13 @@ main {
 
 .welcome-message .welcome-text {
   flex: 2 1 320px;
+
+}
+.welcome-text p{
   text-align: left;
   margin-top: 20px;
+  
 }
-
 .welcome-message .welcome-image {
   flex: 1 1 220px;
   min-width: 180px;
